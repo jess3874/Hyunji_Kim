@@ -1,3 +1,9 @@
+############L6###################
+#What we learned from here?
+#Big sample's random variable follows CLT!
+#percentile norm function shows us where the exact number is in percentile.
+#function things? 
+
 #dicefunction
 roll=function(x){
 dice1=sample(c(1,2,3,4,5,6),size=x,rep=T)
