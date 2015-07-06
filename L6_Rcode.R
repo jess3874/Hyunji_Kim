@@ -15,5 +15,7 @@ plot(ecdf(c))
 #rnorm and pnorm
 r=rnorm(10000,mean=0,sd=1)
 hist(r)
-
+#
 pnorm((70-65.2)/5)
+#
+1-pnorm((1-3)/sqrt(5))
