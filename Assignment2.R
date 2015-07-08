@@ -47,6 +47,7 @@ alpha=0.01.
 A=c(248,236,269,254,249,251,260,245,239,255)
 B=c(380,391,377,392,398,374)
 wilcox.test(1.5*A,B)
+#p-value=0.1471, so we can not reject the null hypothesis.
 
 #[5]##################################
 Standard deviation is a measure of dispersion within your data set, 
